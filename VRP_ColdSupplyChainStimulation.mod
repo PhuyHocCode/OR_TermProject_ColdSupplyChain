@@ -1,4 +1,4 @@
-// Vehicle Routing Problem for Cold Chain Logistics (translated from Python to CPLEX OPL)
+// Vehicle Routing Problem for Cold Chain Logistics 
 
 int n = 6; // number of nodes (1 depot + 5 stores)
 int m = 3; // number of vehicles
