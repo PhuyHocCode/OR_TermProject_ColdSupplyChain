@@ -10,8 +10,8 @@ range J = 0..n-1;
 range K = 0..m-1;
 
 // Coordinates (x, y), demand and service time for each node
-float x[Nodes] = [10, 4, 9, 18, 17, 2];
-float y[Nodes] = [10, 15, 11, 3, 18, 14];
+float x[Nodes] = [0, 6, 15, 12, 3, 18];    
+float y[Nodes] = [0, 7, 14, 5, 13, 9];
 float demand[Nodes] = [0, 620, 640, 780, 810, 600];
 float service_time[Nodes] = [0, 0.13, 0.14, 0.17, 0.18, 0.13];
 
